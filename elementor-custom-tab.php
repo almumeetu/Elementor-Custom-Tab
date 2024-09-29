@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Plugin Name: Primium TabSlider Widget
+ * Plugin Name: Elementor TabSlider Widget
  * Description: Custom Elementor extension which includes custom widgets.
  * Plugin URL: https://example.com
  * Version: 1.0.0
